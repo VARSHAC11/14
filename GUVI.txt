@@ -4,6 +4,7 @@ Javascript  supports the V8 engine.
 Document,Window features available
 <script>filename.js</script>
 Javascript is used in frontend
+Javascript is internally present in browser
 
 
 NODE JS
@@ -12,5 +13,6 @@ Node.js  supports the V8 engine.
 Document,Window features available
 node filename.js
 Nodejs is used in backend.
+Javascript is installed with packages.
 
 
