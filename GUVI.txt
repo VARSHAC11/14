@@ -1,20 +1,16 @@
-JAVA SCRIPT:
+BROWSER:
 Javascript can only be run in the browsers.
-It is basically used on the client-side.
-Javascript is used in frontend development.
-JavaScript is a simple programming language that could be run in any browser.
-Javascript is a programming language that is used for writing scripts on the website.
+Javascript  supports the V8 engine.
+Document,Window features available
+<script>filename.js</script>
+Javascript is used in frontend
+
 
 NODE JS
 NodeJS code can be run outside the browser.
-It is mostly used on the server-side.
-Nodejs is used in server-side development.
-Node.js only supports the V8 engine.
-NodeJS is a Javascript runtime environment.
+Node.js  supports the V8 engine.
+Document,Window features available
+node filename.js
+Nodejs is used in backend.
 
-2.
-HTTP/2 is binary instead of textual like HTTP1.x – this makes it transfer and parsing of data over HTTP/2 inherently more machine-friendly, thus faster, more efficient and less error prone.
-HTTP/2 is fully multiplexed allowing multiple files and requests to be transferred at the same time, as opposed to HTTP1.x which only accepted one single request / connection at a time.
-HTTP/2 uses the same connection for transferring different files and requests, avoiding the heavy operation of opening a new connection for every file which needs to be transferred between a client and a server.
-HTTP/2 has header compression built-in which is another way of removing several of the overheads associated with HTTP1.x having to retrieve several different resources from the same or multiple web servers.
-HTTP/2 allows servers to push required resources proactively rather than waiting for the client browser to request files when it thinks it need them.
+
